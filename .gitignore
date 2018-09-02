@@ -2,6 +2,7 @@
 #comment
 
 tempfile.txt
+nottracked.txt
 .DS_Store
 *.zip
 *.gz
